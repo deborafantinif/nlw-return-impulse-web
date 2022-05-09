@@ -41,7 +41,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 ## 🤔 Execução
 
-Você pode utilizar a aplicação por este [link](https://nlw-return-impulse-web-deborafantinif.vercel.app/):
+Você pode utilizar a aplicação por este [link](https://nlw-return-impulse-web-deborafantinif.vercel.app/).
 
 
 ## :memo: Licença
