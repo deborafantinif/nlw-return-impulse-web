@@ -14,6 +14,12 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<br>
+
+<p align="center">
+  <img alt="BeTheHero" src="github/feedget.png" width="100%">
+</p>
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
